@@ -84,9 +84,11 @@ The Licensee **does NOT** have the right to bring any furniture into the Propert
 
 2. **Removing furniture:** If you wish to remove any provided furniture from your bedroom, you must move it to the living room and inform the House Manager. Do not discard, damage, or store furniture in hallways or other common areas.
 
-3. **Adding furniture:** If you wish to add any item to your bedroom beyond what is listed in Section 4.2, you must obtain approval from the House Manager before bringing it into the Property.
+3. **Adding furniture:** If you wish to add any item to your bedroom, you must obtain approval from the House Manager before bringing it into the Property.
 
 4. **Space heaters:** Space heaters are permitted for use in bedrooms but are **strongly discouraged.** If used, they must be UL-listed, placed on a flat surface away from bedding and curtains, and never left unattended.
+
+5. **Room changes:** The Licensee may request a room change at any time, subject to availability and approval by the House Manager. The Licensor may also request that the Licensee change rooms at its discretion. In either case, any changes to the monthly License Fee resulting from a room change will be communicated and mutually agreed upon by both parties before the move takes effect.
 
 ---
 
