@@ -1,7 +1,6 @@
-# LICENSE AGREEMENT FOR USE OF SHARED LIVING SPACE
+# LICENSE AGREEMENT FOR USE OF SHARED LIVING AND COWORKING SPACE
 
 **Property:** Alamo Square House, San Francisco, CA ("the Property")
-**Website:** alamosquare.house
 
 ---
 
