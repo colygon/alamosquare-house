@@ -31,7 +31,11 @@ const components: Components = {
       {children}
     </ol>
   ),
-  li: ({ children }) => <li className="text-muted leading-relaxed">{children}</li>,
+  li: ({ children }) => (
+    <li className="text-muted leading-relaxed [&>p]:inline [&>p]:mb-0">
+      {children}
+    </li>
+  ),
   strong: ({ children }) => (
     <strong className="text-foreground font-semibold">{children}</strong>
   ),
