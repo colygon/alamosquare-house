@@ -74,18 +74,7 @@ The Licensee **does NOT** have the right to bring any furniture into the Propert
 - Chairs or office chairs
 - Couches, loveseats, or sofas
 - Bookshelves, entertainment centers, or large storage units
-- Any other furniture items not listed in Section 4.2
-
-### 4.2 Permitted Personal Items
-
-The Licensee **may** bring the following work, study, and personal items:
-
-- Computer monitors and peripherals
-- Desk lamps or supplemental lighting
-- File cabinet (compact/personal size)
-- Personal safe
-- Bathroom and personal hygiene items
-- Work or study supplies (laptops, notebooks, stationery, etc.)
+- Any other furniture items
 
 ---
 
