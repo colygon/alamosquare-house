@@ -105,8 +105,6 @@ The Licensee **does NOT** have the right to bring any furniture into the Propert
 
 6. **Group size limit.** No groups larger than 10 people are permitted in common areas, **except** on Sunday nights or when pre-approved by the House Manager.
 
-7. **No space heaters in common areas.** Space heaters are strictly prohibited in the coworking space and all other shared common areas.
-
 ---
 
 ## 7. GENERAL HOUSE RULES
