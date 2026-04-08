@@ -16,19 +16,73 @@
 
 The Licensor hereby grants the Licensee a revocable, non-exclusive license to occupy and share in the benefits of the Property, including:
 
+**Housing & Living Spaces:**
 - A furnished private bedroom
-- Access to shared common areas, kitchen, and laundry facilities
-- Use of the on-site coworking space
+- Access to shared common areas, living rooms, and lounges
+- Renovated kitchen with modern appliances
+- 24/7 on-site laundry facilities
+- Bathrooms with modern fixtures
+- Central heating
+- All streaming services
+- Sonos speakers throughout common areas
+
+**Technology & Internet:**
 - High-speed internet with 1 Gbps fiber backhaul and WiFi 7 wireless networking
-- Access to community events and programming
-- Use of the outdoor backyard space
-- Coffee (included, available in common areas)
-- Toilet paper (included)
-- Cleaning supplies (included)
-- Weekly or bi-weekly cleaning service (included)
+
+**Coworking Space (Frontier Tower) — 24/7 access:**
+- Open workspace with standing desks and ergonomic chairs
+- External monitors available
+- Conference and meeting rooms with whiteboards
+- Event space with projector
+- Lounge and recreation areas
+- Ping pong table
+- Coffee bar with espresso machine
+- Fully stocked kitchen and snacks
+
+**Fitness Center (Frontier Fitness Center) — 24/7 access:**
+- Treadmills and stationary bikes
+- Squat stand with safety bars, Olympic barbell, and bumper plates
+- Adjustable benches, full dumbbell set (5–50 lbs), and kettlebells (5–30 lbs)
+- Resistance bands, dip and pull-up stand
+- Yoga mats, foam rollers, massage balls, and recovery equipment
+- Balance and mobility equipment (Bosu ball, slackline board, tib bar, ab wheel)
+
+**Makerspace (Frontier Makerspace) — 24/7 member access:**
+- 3D printing farm (Bambu Labs X1 Carbon, Qidi Shadow resin)
+- Laser cutting (Monport 130W, K40 engravers)
+- Pick-and-place for PCB assembly
+- Robotics and electronics workbench
+- Industrial sewing machines
+- Clean room with fume extraction
+- Queue-skipping and member discounts on machine time
+
+**Outdoor Spaces:**
+- Backyard with artificial turf, string lights, and heat lamps
+- Outdoor seating areas and garden space
+
+**Community & Events:**
+- Weekly Sunday dinners and demo nights
+- Speaker series, networking mixers, and hackathons
+- Poker nights, themed parties, and social hours
+- Access to 120+ active builders in the Accelr8 network
+- Warm introductions to 5,000+ ecosystem contacts, investors, and advisors
+
+**Professional Support:**
 - Startup consulting and advisory services (included)
+- Demo night feedback sessions
+- Go-to-market (GTM) support and advisor network access
+
+**Included Supplies:**
+- Coffee (available in common areas)
+- Toilet paper
+- Cleaning supplies
+- Weekly or bi-weekly cleaning service
+
+**Parking:**
 - Garage parking on a first-come, first-served basis
 - Street parking on a first-come, first-served basis
+
+**Resident Rights:**
 - The right to report maintenance issues to the House Manager for prompt resolution
 - The right to report roommate issues to the House Manager for mediation and resolution
 
